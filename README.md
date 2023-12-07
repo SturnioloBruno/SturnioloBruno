@@ -9,8 +9,8 @@ I'm a backend developer 🚀 from Argentina.
 ### ✨ Quick Facts
 
 -   👨🏽‍💻 I’m currently working on personal projects
--   🌱 I’m currently learning Django and Java in deep
--   🎿 Hobbies other than coding: Play table tennis, Playing single-player videogames, Read books...
+-   🌱 I’m currently learning Django and Java in depth
+-   🎿 Hobbies other than coding: Play table tennis, Play single-player videogames, Read books...
 -   📫 How to reach me: <a href="[https://www.linkedin.com/in/javcho23/](https://www.linkedin.com/in/bruno-sturniolo-aa8074234/)">@Bruno Sebastian Sturniolo</a>
 -   📝 [CV](https://www.canva.com/design/DAFVzViNrFQ/KfIMKwqkqddiWArfJ4HU6g/edit?utm_content=DAFVzViNrFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
