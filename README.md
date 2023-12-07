@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world 👋, I'm [Brunix](https://github.com/profilesGitHub) 👨‍💻
+
+
+  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Brunix's photo" src="#" />
+<p>
+I'm a backend developer 🚀 from Argentina.
+<br/>
 
 <!--
 **SturnioloBruno/SturnioloBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
